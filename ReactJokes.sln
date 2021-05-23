@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactJokes.web", "ReactJokes.web\ReactJokes.web.csproj", "{25575CA4-B28F-49BB-88B9-C824CD2D3651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactJokes.data", "ReactJokes.data\ReactJokes.data.csproj", "{2A2CC3E6-1421-40B2-BF91-89B7834DC580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25575CA4-B28F-49BB-88B9-C824CD2D3651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25575CA4-B28F-49BB-88B9-C824CD2D3651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25575CA4-B28F-49BB-88B9-C824CD2D3651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25575CA4-B28F-49BB-88B9-C824CD2D3651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2CC3E6-1421-40B2-BF91-89B7834DC580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2CC3E6-1421-40B2-BF91-89B7834DC580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2CC3E6-1421-40B2-BF91-89B7834DC580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2CC3E6-1421-40B2-BF91-89B7834DC580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33375D88-D0BE-4CCA-9423-65D1A134F6FC}
+	EndGlobalSection
+EndGlobal
